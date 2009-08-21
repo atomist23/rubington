@@ -27,10 +27,13 @@ Gem::Specification.new do |s|
 
     if Gem::Version.new(Gem::RubyGemsVersion) >= Gem::Version.new('1.2.0') then
       s.add_development_dependency(%q<bones>, [">= 2.5.1"])
+      s.add_development_dependency(%q<httparty>, [">= 0.4.4"])
     else
       s.add_dependency(%q<bones>, [">= 2.5.1"])
+      s.add_dependency(%q<httparty>, [">= 0.4.4"])
     end
   else
     s.add_dependency(%q<bones>, [">= 2.5.1"])
+    s.add_dependency(%q<httparty>, [">= 0.4.4"])
   end
 end
