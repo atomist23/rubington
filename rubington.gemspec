@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.email = %q{atomist@gmail.com}
   s.executables = ["rubington"]
   s.extra_rdoc_files = ["History.txt", "README.txt", "bin/rubington"]
-  s.files = [".document", "History.txt", "README.txt", "Rakefile", "bin/rubington", "lib/rubington.rb", "lib/rubington/citizen_atlas.rb", "spec/rubington_spec.rb", "spec/spec_helper.rb", "test/test_rubington.rb"]
+  s.files = ["History.txt", "README.txt", "Rakefile", "bin/rubington", "lib/rubington.rb", "lib/rubington/citizen_atlas.rb", "spec/rubington_spec.rb", "spec/spec_helper.rb", "test/test_rubington.rb"]
   s.homepage = %q{http://www.atomlab.us/projects/rubington}
   s.rdoc_options = ["--main", "README.txt"]
   s.require_paths = ["lib"]

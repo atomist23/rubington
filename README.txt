@@ -23,7 +23,8 @@ The idea is to add dc & surrounding areas (VA&MD) services into a gem.
 
 == INSTALL:
 
-* Dunno yet. Soon!
+* gem sources -a http://gems.github.com
+* sudo gem install atomist-rubington
 
 == LICENSE:
 
