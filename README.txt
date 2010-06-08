@@ -1,6 +1,6 @@
 rubington
     by Thomas Gallaway
-    http://www.atomlab.us/projects/rubington
+    http://atomist.github.com/rubington/
 
 == DESCRIPTION:
 
@@ -30,7 +30,7 @@ The idea is to add dc & surrounding areas (VA&MD) services into a gem.
 
 (The MIT License)
 
-Copyright (c) 2009 Thomas Gallaway
+Copyright (c) 2010 Thomas Gallaway
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
